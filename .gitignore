@@ -1,0 +1,7 @@
+/packages/*
+/.vs/*
+/.git/*
+/IdSimpleConsoleHost/bin/*
+/IdSimpleConsoleHost/obj/*
+/IdSimpleConsoleHost/Properties/*
+/IdSimpleConsoleHost/IdSimpleConsoleHost.csproj.user
